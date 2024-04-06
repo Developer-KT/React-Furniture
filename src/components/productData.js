@@ -7,7 +7,7 @@ export const productData = [
     price: "R5,999",
     spanPrice: "R6,499",
     loan: "Or 6 payments of R1100",
-    image: "/public/images/2-seat-couch.png",
+    image: "/images/2-seat-couch.png",
     width: "100%",
   },
   {
@@ -18,7 +18,7 @@ export const productData = [
     price: "R4,499",
     spanPrice: "R4,999",
     loan: "Or 6 payments of R749",
-    image: "/public/images/single-armchair.png",
+    image: "/images/single-armchair.png",
     width: "50%",
   },
   {
@@ -29,7 +29,7 @@ export const productData = [
     price: "R3,999",
     spanPrice: "R4,499",
     loan: "Or 6 payments of R699",
-    image: "/public/images/pink-armchair.png",
+    image: "/images/pink-armchair.png",
     width: "70%",
   },
   {
@@ -40,7 +40,7 @@ export const productData = [
     price: "R6,999",
     spanPrice: "R7,499",
     loan: "Or 6 payments of R1199",
-    image: "/public/images/tv-cabinet.png",
+    image: "/images/tv-cabinet.png",
     width: "100%",
   },
   {
@@ -51,7 +51,7 @@ export const productData = [
     price: "R6,999",
     spanPrice: "R7,499",
     loan: "Or 6 payments of R1199",
-    image: "/public/images/bedside.png",
+    image: "/images/bedside.png",
     width: "100%",
   },
   {
