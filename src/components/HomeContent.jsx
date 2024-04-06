@@ -54,7 +54,7 @@ export default function HomeContent() {
 
   return (
     <>
-      <section className="cards-section fade-in from-left">
+      <section className="cards-section fade-in">
         <div className="card">
           <img src="images/bathroom-card.jpg" alt="Bathroom card" />
           <h3>Dreamy Bathroom</h3>
