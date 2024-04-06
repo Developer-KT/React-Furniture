@@ -39,6 +39,24 @@ nav ul {
   color: gray;
 }
 
+#home-btn {
+  color: #385ae0;
+}
+
+.tab-div {
+  position: relative;
+}
+
+.active-nav {
+  height: 3px;
+  background: #385ae0;
+  border-radius: 1rem;
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+  width: 100%;
+}
+
 #contact-btn {
   background-color: black;
   color: white;
