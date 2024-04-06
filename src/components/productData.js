@@ -1,0 +1,231 @@
+export const productData = [
+  {
+    key: 1,
+    productTitle: "2-Seat Couch",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/2-seat-couch.png",
+    width: "100%",
+  },
+  {
+    key: 2,
+    productTitle: "Armchair Single",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R4,499",
+    spanPrice: "R4,999",
+    loan: "Or 6 payments of R749",
+    image: "/public/images/single-armchair.png",
+    width: "50%",
+  },
+  {
+    key: 3,
+    productTitle: "Armchair Pink",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R3,999",
+    spanPrice: "R4,499",
+    loan: "Or 6 payments of R699",
+    image: "/public/images/pink-armchair.png",
+    width: "70%",
+  },
+  {
+    key: 4,
+    productTitle: "TV Cabinet",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R6,999",
+    spanPrice: "R7,499",
+    loan: "Or 6 payments of R1199",
+    image: "/public/images/tv-cabinet.png",
+    width: "100%",
+  },
+  {
+    key: 5,
+    productTitle: "Nightstand",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R6,999",
+    spanPrice: "R7,499",
+    loan: "Or 6 payments of R1199",
+    image: "/public/images/bedside.png",
+    width: "100%",
+  },
+  {
+    key: 6,
+    productTitle: "2 Seat Couch",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/armchair3.png",
+    width: "60%",
+  },
+  {
+    key: 7,
+    productTitle: "Meille Couch",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/3-seatcouch2.png",
+    width: "100%",
+  },
+  {
+    key: 8,
+    productTitle: "Couch",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/2-seat-couch.png",
+    width: "100%",
+  },
+];
+
+export const shopAllData = [
+  {
+    key: 1,
+    productTitle: "Reef TV Stand",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R4,999",
+    spanPrice: "R5,799",
+    loan: "Or 6 payments of R899",
+    image: "/public/images/tv-stand.png",
+    width: "100%",
+    brand: "Burrow",
+  },
+  {
+    key: 2,
+    productTitle: "Nightstand",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R6,999",
+    spanPrice: "R7,499",
+    loan: "Or 6 payments of R1199",
+    image: "/public/images/bedside.png",
+    width: "100%",
+  },
+  {
+    key: 7,
+    productTitle: "Madeira Chest Of Drawers",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R4,999",
+    loan: "Or 6 payments of R899",
+    image: "/public/images/chest-of-drawers1.png",
+    width: "100%",
+    brand: "Knoll",
+  },
+  {
+    key: 3,
+    productTitle: "3-Seat Couch",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/3-seatcouch2.png",
+    width: "100%",
+    brand: "Burrow",
+  },
+  {
+    key: 4,
+    productTitle: "Armchair",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R4,499",
+    spanPrice: "R4,999",
+    loan: "Or 6 payments of R749",
+    image: "/public/images/single-armchair.png",
+    width: "50%",
+    brand: "Maiden",
+  },
+  {
+    key: 5,
+    productTitle: "Armchair Pink",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R3,999",
+    image: "/public/images/pink-armchair.png",
+    width: "70%",
+    brand: "Arhaus",
+  },
+  {
+    key: 12,
+    productTitle: "Reef Coffee Table",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R4,499",
+    spanPrice: "R5,499",
+    loan: "Or 6 payments of R899",
+    image: "/public/images/round-coffee-table.png",
+    width: "100%",
+    brand: "Knoll",
+  },
+  {
+    key: 6,
+    productTitle: "2-Seat Couch",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/armchair3.png",
+    width: "60%",
+    brand: "Knoll",
+  },
+  {
+    key: 8,
+    productTitle: "Knoll Sideboard",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R4,999",
+    loan: "Or 6 payments of R899",
+    image: "/public/images/sideboard.png",
+    width: "100%",
+    brand: "Knoll",
+  },
+  {
+    key: 9,
+    productTitle: "Couch Grey",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/3-seatcouch2.png",
+    width: "100%",
+    brand: "Burrow",
+  },
+  {
+    key: 10,
+    productTitle: "Russel Couch",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,999",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/2-seat-couch.png",
+    width: "100%",
+    brand: "Burrow",
+  },
+  {
+    key: 11,
+    productTitle: "Madeira TV Stand",
+    productDescription:
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    price: "R5,499",
+    spanPrice: "R6,499",
+    loan: "Or 6 payments of R1100",
+    image: "/public/images/tv-cabinet2.png",
+    width: "100%",
+    brand: "Knoll",
+  },
+];
